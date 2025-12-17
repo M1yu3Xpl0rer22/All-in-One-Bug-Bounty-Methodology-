@@ -187,7 +187,7 @@ To contribute:
 3. Make your changes and commit (`git commit -m "Add improvement"`).  
 4. Push to the branch (`git push origin feature-name`).  
 5. Open a Pull Request and describe your changes.  
-If you want to discuss a major change, open an issue first. :contentReference[oaicite:1]{index=1}
+
 
 ***
 
